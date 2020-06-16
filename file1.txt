@@ -1,1 +1,1 @@
-changing contents of master in branch 1
+changing contents of branch1 
