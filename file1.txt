@@ -1,1 +1,2 @@
-changing contents of branch1 for new branch 2
+changing contents of branch2 for n
+ew branch 2
